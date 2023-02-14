@@ -1,1 +1,4 @@
 Hello Everyone
+this is nano editor file
+hello world
+how are you !!!!
